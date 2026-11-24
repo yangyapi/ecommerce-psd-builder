@@ -1,0 +1,12 @@
+﻿# 压缩包
+*.zip
+# 系统垃圾
+.DS_Store
+Thumbs.db
+# python缓存
+__pycache__/
+*.pyc
+*.pyo
+# 日志、临时文件
+*.log
+*.tmp
